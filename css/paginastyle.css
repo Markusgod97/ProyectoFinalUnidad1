@@ -1,0 +1,17 @@
+.card {
+            transition: transform 0.3s;
+            height: 100%; /* Para que todas las cards tengan la misma altura */
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card-img-top {
+            height: 200px;
+            object-fit: cover; /* Ajusta la imagen dentro de la card */
+        }
+        
+        /* Asegura que el contenedor use el sistema de grid correctamente */
+        .cards-container {
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        }

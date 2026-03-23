@@ -1,0 +1,20 @@
+.carousel-item {
+  height: 500px;
+  background-color: #000;
+}
+.carousel-item img {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+.card {
+  transition: transform 0.3s;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
+@media (max-width: 768px) {
+  .carousel-item {
+    height: 300px;
+  }
+}
