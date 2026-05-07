@@ -15,11 +15,11 @@ El proyecto demuestra la implementación de:
 - Diseño adaptable a móvil, tablet y escritorio
 
 📌 Resumen de la Documentación
-🎯 Descripción
+Descripción
 Prototipo front-end de un sitio web informativo sobre armas (pistolas, fusiles, ametralladoras).
 Desarrollado con HTML5, CSS3 y Bootstrap 5. Totalmente responsivo.
 
-🛠️ Tecnologías
+Tecnologías
 HTML5
 
 CSS3 (con archivo iniciostyle.css)
@@ -93,4 +93,3 @@ Bootstrap 5 Documentation
 MDN Web Docs
 
 W3Schools CSS Guide
-
